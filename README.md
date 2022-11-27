@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B6F4FF&height=200&section=header&text=KIMAKUMA%20GITHUB&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B6F4FF&height=300&section=header&text=KIMAKUMA%20GITHUB&fontSize=80&fontColor=ffffff)
 
 ### Hi there 👋
 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6F4FF&height=200&section=header&text=KIMAKUMA GITHUB&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=B6F4FF&height=200&section=header&text=KIMAKUMA GITHUB&fontSize=90)
 
 ### Hi there 👋
 

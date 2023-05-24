@@ -24,30 +24,30 @@
 <div align="center">
   <h4>Language / DataBase / Operating System / Environment / Server</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=GoLand&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
-	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white" />
-	<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=NVIDIA&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=NVIDIA&logoColor=white" />
+  	<br>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <br>
+  	<br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />

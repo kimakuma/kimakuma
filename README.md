@@ -81,6 +81,20 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
+<br>
+
+<div align=center>
+	<h4>DATA mining</h4>
+</div>
+
+<div align="center">   
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white" />
+  
+</div>
+
 ---
 
 <div align=center>

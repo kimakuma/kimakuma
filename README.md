@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=GoLand&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white" />
 	<br>

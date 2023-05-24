@@ -38,6 +38,7 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white" />
 	<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=NVIDIA&logoColor=white" />
